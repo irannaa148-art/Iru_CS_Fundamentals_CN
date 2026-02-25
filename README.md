@@ -1,6 +1,6 @@
 # Iru_CS_Fundamentals_CN
 Iru_CS_Fundamentals_CN
-<br>
+
 I.	Basics of Computer Networks
 II.	Physical Layer
 III.	Data Link Layer
